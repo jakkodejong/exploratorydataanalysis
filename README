@@ -1,3 +1,7 @@
 "hello again" 
 "text added to the master branch"
+<<<<<<< HEAD
 "text added on local master"
+=======
+"text added to origin master"
+>>>>>>> dc41012e35f1f5a596cdcb2e4c34a0d5731bd8f1
